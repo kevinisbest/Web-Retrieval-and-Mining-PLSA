@@ -1,4 +1,4 @@
-# -Web-Retrieval-and-Mining-PLSA
+# Web-Retrieval-and-Mining-PLSA
 [Web Retrieval and Mining](https://www.csie.ntu.edu.tw/~pjcheng/course/wm2018/) HW2
 
 * You are required to implement a text classification model by PLSA.
